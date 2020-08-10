@@ -11,7 +11,7 @@ Control the values with the Terrarium-Box and with the included [WebApplication]
 <img src="Docs/Terrarium_Device_Inside.jpg" width="640"/>
 
 
-***This project is part of the [IoT Engineering](../../../fhnw-iot) course.***
+***This project is part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.***
 
 ### Team members
 
